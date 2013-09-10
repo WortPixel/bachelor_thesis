@@ -1,13 +1,34 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
+.DS_Store
+main
+analysis*
+latex_kurs*
+presentation*
+thesis*
+test
+CMakeFiles*
+CMakeCache.txt
+build*
+data*
+Makefile
+plots*
+QTEMSA*
+*._*
 *.a
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.cmake
+*.d
+*.lof
+*.log
+*.lot
+*.gch
+*.gz
+*.o
+*.out
+*.pdf
+*.pyc
+*.run.xml
+*.so
+*.toc
