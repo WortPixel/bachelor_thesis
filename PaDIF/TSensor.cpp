@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+ 
 #include "TSensor.h"
 
 TSensor::TSensor()

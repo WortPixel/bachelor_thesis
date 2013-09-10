@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+
 #include "TDetector.h"
 
 TDetector::TDetector() : edgeLength_(0) {

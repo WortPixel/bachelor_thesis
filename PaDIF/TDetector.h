@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+
 #ifndef TDETECTOR_H
 #define TDETECTOR_H
 #include <fstream>
@@ -6,6 +11,11 @@
 #include <vector>
 #include "TEvent.h"
 #include "TSensor.h"
+
+/*
+    Author: Philipp Schlunder
+    Licence: GPL v3
+*/
 
 /**
  * The detector class

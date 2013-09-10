@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+ 
 #include "TEvent.h"
 
 TEvent::TEvent() : energy_(0), azimuthalAngle_(0), polarAngle_(0) {	

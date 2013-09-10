@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>

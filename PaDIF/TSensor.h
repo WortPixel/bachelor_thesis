@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+
 #ifndef TSENSOR_H
 #define TSENSOR_H
 #include <iostream>

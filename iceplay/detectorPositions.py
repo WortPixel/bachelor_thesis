@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+'''
+This small script produces a txt-file containing information, that can be used for setting up a detector with PaDIF.
+The output file contains positions, permeabilities and a group number for each sensor.
+'''
+
 file = open("detector_config.txt", "w")
 
 for z in range(1, 61):

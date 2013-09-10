@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+
 #ifndef TEVENT_H
 #define TEVENT_H
 #include <iostream>

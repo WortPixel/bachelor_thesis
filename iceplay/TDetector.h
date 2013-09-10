@@ -1,3 +1,8 @@
+/**
+ *  Author: Philipp Schlunder
+ *  Licence: GPL v3
+ */
+
 #ifndef TDETECTOR_H
 #define TDETECTOR_H
 #include <fstream>
