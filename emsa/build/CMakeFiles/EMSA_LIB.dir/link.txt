@@ -1,1 +1,0 @@
-clang++   -O2 -Wall -Wextra -pedantic -dynamiclib -Wl,-headerpad_max_install_names   -o libEMSA_LIB.dylib -install_name /Users/Philipp/Bachelorarbeit/emsa/build/libEMSA_LIB.dylib CMakeFiles/EMSA_LIB.dir/TDetector.cpp.o CMakeFiles/EMSA_LIB.dir/TSensor.cpp.o CMakeFiles/EMSA_LIB.dir/TEvent.cpp.o 
