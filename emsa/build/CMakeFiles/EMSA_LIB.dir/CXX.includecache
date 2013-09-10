@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Philipp/Bachelorarbeit/emsa/TDetector.cpp
+TDetector.h
+/Users/Philipp/Bachelorarbeit/emsa/TDetector.h
+
+/Users/Philipp/Bachelorarbeit/emsa/TDetector.h
+fstream
+-
+iostream
+-
+math.h
+-
+vector
+-
+TEvent.h
+/Users/Philipp/Bachelorarbeit/emsa/TEvent.h
+TSensor.h
+/Users/Philipp/Bachelorarbeit/emsa/TSensor.h
+
+/Users/Philipp/Bachelorarbeit/emsa/TEvent.cpp
+TEvent.h
+/Users/Philipp/Bachelorarbeit/emsa/TEvent.h
+
+/Users/Philipp/Bachelorarbeit/emsa/TEvent.h
+iostream
+-
+math.h
+-
+vector
+-
+
+/Users/Philipp/Bachelorarbeit/emsa/TSensor.h
+iostream
+-
+vector
+-
+

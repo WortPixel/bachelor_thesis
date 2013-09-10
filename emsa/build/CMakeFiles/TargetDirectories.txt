@@ -1,0 +1,3 @@
+/Users/Philipp/Bachelorarbeit/emsa/build/CMakeFiles/EMSA_LIB.dir
+/Users/Philipp/Bachelorarbeit/emsa/build/CMakeFiles/main.dir
+/Users/Philipp/Bachelorarbeit/emsa/build/CMakeFiles/test.dir

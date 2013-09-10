@@ -1,0 +1,1 @@
+clang++    -O2 -Wall -Wextra -pedantic -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/Users/Philipp/Code/root/lib -lGui -lCore -lCint -lRIO -lNet -lHist -lGraf -lGraf3d -lGpad -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lThread -lpthread -Wl,-rpath,/Users/Philipp/Code/root/lib -lm -ldl   CMakeFiles/test.dir/TModulTest.cpp.o  -o test  libEMSA_LIB.dylib 
