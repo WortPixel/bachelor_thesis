@@ -19,11 +19,11 @@ If you want to test EMSA or iceplay make sure, that all the listed programs and 
 It might be possible, that you need to update the CMakeLists.txt with library locations.
 
 It is recommended to create a new folder for each build. You might want to do something similar to this:  
-`$ mkdir build`  
-`$ cd build`  
-`$ cmake ../.`  
-`$ make`  
-`$ ./main`  
+`$ mkdir build  
+$ cd build  
+$ cmake ../.  
+$ make  
+$ ./main`  
 
 The last command starts a measurement.
 
