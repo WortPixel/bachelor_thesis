@@ -22,7 +22,7 @@ It is recommended to create a new folder for each build. You might want to do so
 `$ make`  
 `$ ./main`  
 
-The last command starts a measurement. For further information have a look in the (soon to be published) thesis or the documentation included in the source code. If that still leaves you with unanswered questions feel free to contact me. My mail address has the structure givenname@surname.de whereas my name is included in the source files.
+The last command starts a measurement. For further information have a look in the thesis or the documentation included in the source code. If that still leaves you with unanswered questions feel free to contact me. My mail address has the structure givenname@surname.de whereas my name is included in the source files.
 
 ## Licence:
 The software published in the repository is available under the GPL v3 licence.
